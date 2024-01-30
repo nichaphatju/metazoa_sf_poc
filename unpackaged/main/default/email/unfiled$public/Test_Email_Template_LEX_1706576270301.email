@@ -1,0 +1,8 @@
+<html>
+ <head>
+  <title></title>
+ </head>
+ <body style="height: auto; min-height: auto;">
+  Hello&nbsp;{{{Account.Name}}}<br /> <br /> <img alt="17507730" src="{[devName:X17507730]}" style="max-width: 681.15px; width: 274px; height: 187.219px;" title="17507730" /><br />
+ </body>
+</html>
